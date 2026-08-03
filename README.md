@@ -217,7 +217,8 @@ AI automation agency building white-label voice and workflow automation for US/U
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theabdullahnadeem&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theabdullahnadeem&theme=dark)](https://git.io/streak-stats)
+
 
 </div>
 
