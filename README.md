@@ -47,7 +47,7 @@ I care more about whether a system holds up under concurrent users and edge case
 
 **Languages**
 
-![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql) ![PHP](https://skillicons.dev/icons?i=php)
+![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![C++](https://skillicons.dev/icons?i=cpp) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PHP](https://skillicons.dev/icons?i=php)
 
 **Frontend**
 
@@ -55,23 +55,23 @@ I care more about whether a system holds up under concurrent users and edge case
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![Prisma](https://skillicons.dev/icons?i=prisma) ![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-6a0dad?style=flat-square)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![Prisma](https://skillicons.dev/icons?i=prisma) ![Drizzle ORM](https://skillicons.dev/icons?i=drizzle)
 
 **Real-Time & Messaging**
 
-![LiveKit](https://img.shields.io/badge/LiveKit-Real--Time-6a0dad?style=flat-square) ![Inngest](https://img.shields.io/badge/Inngest-Background%20Jobs-6a0dad?style=flat-square) ![Socket.io](https://img.shields.io/badge/Socket.io-WebSockets-6a0dad?style=flat-square) ![tRPC](https://img.shields.io/badge/tRPC-RPC-6a0dad?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-6a0dad?style=flat-square)
+![LiveKit](https://img.shields.io/badge/LiveKit-Real--Time-6a0dad?style=flat-square&logo=livekit&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-Background%20Jobs-6a0dad?style=flat-square&logo=inngest&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-WebSockets-6a0dad?style=flat-square&logo=socketdotio&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-RPC-6a0dad?style=flat-square&logo=trpc&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-6a0dad?style=flat-square)
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![AWS](https://skillicons.dev/icons?i=aws) ![Supabase](https://img.shields.io/badge/Supabase-Backend-6a0dad?style=flat-square)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![AWS](https://skillicons.dev/icons?i=aws) ![Supabase](https://skillicons.dev/icons?i=supabase)
 
 **Authentication & Infrastructure**
 
-![Better Auth](https://img.shields.io/badge/Better%20Auth-1.8.0-6a0dad?style=flat-square) ![NextAuth](https://img.shields.io/badge/NextAuth-5.0-6a0dad?style=flat-square) ![Zod](https://img.shields.io/badge/Zod-Schema%20Validation-6a0dad?style=flat-square) ![Cloudinary](https://img.shields.io/badge/Cloudinary-Asset%20Management-6a0dad?style=flat-square)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-1.8.0-6a0dad?style=flat-square) ![NextAuth](https://img.shields.io/badge/NextAuth.js-5.0-6a0dad?style=flat-square&logo=nextdotjs&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-Schema%20Validation-6a0dad?style=flat-square&logo=zod&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-Asset%20Management-6a0dad?style=flat-square&logo=cloudinary&logoColor=white)
 
 **Payment & Business Logic**
 
-![Stripe](https://img.shields.io/badge/Stripe-Payments-6a0dad?style=flat-square) ![JazzCash](https://img.shields.io/badge/JazzCash-Payments-6a0dad?style=flat-square) ![PayFast](https://img.shields.io/badge/PayFast-Payments-6a0dad?style=flat-square) ![Lemon Squeezy](https://img.shields.io/badge/Lemon%20Squeezy-Billing-6a0dad?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-6a0dad?style=flat-square&logo=stripe&logoColor=white) ![JazzCash](https://img.shields.io/badge/JazzCash-Payments-6a0dad?style=flat-square) ![PayFast](https://img.shields.io/badge/PayFast-Payments-6a0dad?style=flat-square) ![Lemon Squeezy](https://img.shields.io/badge/Lemon%20Squeezy-Billing-6a0dad?style=flat-square&logo=lemonsqueezy&logoColor=white)
 
 ---
 
