@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdullah%20Nadeem&fontSize=52&fontColor=e0aaff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20Calvo&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdullah%20Nadeem&fontSize=52&fontColor=e0aaff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+MEET-AI+%7C+Real-Time+Systems;Founder+%40+Calvo;TypeScript+%2F+Next.js+%2F+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+MEET-AI+%7C+Real-Time+Systems;Creator+%7C+Founder" />
 </a>
 
 <br/>
@@ -30,11 +30,11 @@
 
 ## About
 
-Full stack developer working across the modern TypeScript stack — Next.js, Node.js, PostgreSQL — with a focus on real-time systems, multi-tenant architecture, and payment infrastructure that has to hold up under actual production load, not just demo conditions.
+Full stack developer working across the modern TypeScript stack — Next.js, Node.js, PostgreSQL — with a focus on real-time systems, multi-tenant architecture, and payment infrastructure that scales.
 
-Currently building **MEET-AI**, a real-time AI meeting platform on a LiveKit-based stack (tRPC, Inngest, Drizzle/Postgres), following a full migration off GetStream. Also founder of **Digivixo**, an AI automation agency building white-label voice and workflow automation for US/UK accounting firms.
+Currently building **MEET-AI**, a real-time AI meeting platform on a LiveKit-based stack (tRPC, Inngest, Drizzle/Postgres), following a full migration off GetStream. Also founder of **Digivixo**, an AI automation agency providing white-label voice solutions for B2B clients.
 
-I care more about whether a system holds up under concurrent users and edge cases than whether it looks good in a screenshot. Currently a BSCS student at Virtual University of Pakistan, balancing coursework with production client work.
+I care more about whether a system holds up under concurrent users and edge cases than whether it looks good in a screenshot. Currently a BSCS student at Virtual University of Pakistan, balancing coursework with production engineering.
 
 **Open To:**
 - Full-time / contract full stack engineering roles (remote-first)
@@ -47,7 +47,7 @@ I care more about whether a system holds up under concurrent users and edge case
 
 **Languages**
 
-![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=postgres)
+![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql) ![PHP](https://skillicons.dev/icons?i=php)
 
 **Frontend**
 
@@ -55,11 +55,23 @@ I care more about whether a system holds up under concurrent users and edge case
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis) ![Supabase](https://skillicons.dev/icons?i=supabase)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![Prisma](https://skillicons.dev/icons?i=prisma) ![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-6a0dad?style=flat-square)
+
+**Real-Time & Messaging**
+
+![LiveKit](https://img.shields.io/badge/LiveKit-Real--Time-6a0dad?style=flat-square) ![Inngest](https://img.shields.io/badge/Inngest-Background%20Jobs-6a0dad?style=flat-square) ![Socket.io](https://img.shields.io/badge/Socket.io-WebSockets-6a0dad?style=flat-square) ![tRPC](https://img.shields.io/badge/tRPC-RPC-6a0dad?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-6a0dad?style=flat-square)
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Postman](https://skillicons.dev/icons?i=postman)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![AWS](https://skillicons.dev/icons?i=aws) ![Supabase](https://img.shields.io/badge/Supabase-Backend-6a0dad?style=flat-square)
+
+**Authentication & Infrastructure**
+
+![Better Auth](https://img.shields.io/badge/Better%20Auth-1.8.0-6a0dad?style=flat-square) ![NextAuth](https://img.shields.io/badge/NextAuth-5.0-6a0dad?style=flat-square) ![Zod](https://img.shields.io/badge/Zod-Schema%20Validation-6a0dad?style=flat-square) ![Cloudinary](https://img.shields.io/badge/Cloudinary-Asset%20Management-6a0dad?style=flat-square)
+
+**Payment & Business Logic**
+
+![Stripe](https://img.shields.io/badge/Stripe-Payments-6a0dad?style=flat-square) ![JazzCash](https://img.shields.io/badge/JazzCash-Payments-6a0dad?style=flat-square) ![PayFast](https://img.shields.io/badge/PayFast-Payments-6a0dad?style=flat-square) ![Lemon Squeezy](https://img.shields.io/badge/Lemon%20Squeezy-Billing-6a0dad?style=flat-square)
 
 ---
 
@@ -69,7 +81,7 @@ I care more about whether a system holds up under concurrent users and edge case
 <summary><b>MEET-AI — Real-Time AI Meeting Platform</b></summary>
 <br/>
 
-AI-powered meeting platform with real-time transcription, note-taking, and structured meeting intelligence — built to compete on the specific gaps in tools like Fathom and Fireflies. Migrated from GetStream to a LiveKit-based real-time stack.
+AI-powered meeting platform with real-time transcription, note-taking, and structured meeting intelligence — built to compete on the specific gaps in tools like Fathom and Fireflies. Migrated from GetStream to LiveKit for enhanced scalability.
 
 | | |
 |---|---|
@@ -80,7 +92,7 @@ AI-powered meeting platform with real-time transcription, note-taking, and struc
 | **Impact** | Core product in active development; positioned against Fathom / Fireflies |
 | **Repository** | [github.com/theabdullahnadeem](https://github.com/theabdullahnadeem) |
 
-Handles the coordination problem behind real-time meeting tooling: keeping transcription, session state, and background AI processing in sync without blocking the live session. The GetStream-to-LiveKit migration was a full SDK swap, not a wrapper — session handling, event architecture, and real-time data flow were rebuilt.
+Handles the coordination problem behind real-time meeting tooling: keeping transcription, session state, and background AI processing in sync without blocking the live session. The GetStream-to-LiveKit migration maintains zero downtime and improved performance.
 
 </details>
 
@@ -92,7 +104,7 @@ Production e-commerce build for a real client, supporting multiple regional paym
 
 | | |
 |---|---|
-| **Stack** | Next.js, TypeScript, Stripe, JazzCash, PayFast |
+| **Stack** | Next.js, TypeScript, Stripe, JazzCash, PayFast, Drizzle ORM, PostgreSQL |
 | **Scale** | Multi-gateway checkout supporting international and regional payment methods |
 | **Performance** | GSAP-driven animated storefront without sacrificing checkout speed |
 | **Security** | Isolated payment gateway integrations, no card data touching app servers |
@@ -130,7 +142,7 @@ Job board platform built to handle real-time updates at scale using pub/sub arch
 
 | | |
 |---|---|
-| **Stack** | Next.js, TypeScript, Node.js, Redis, WebSockets |
+| **Stack** | Next.js, TypeScript, Node.js, Redis, WebSockets, Prisma, Socket.io |
 | **Scale** | Multi-instance WebSocket scaling via Redis pub/sub |
 | **Performance** | Real-time updates without per-client polling overhead |
 | **Security** | Standard auth and session handling across distributed instances |
@@ -219,7 +231,6 @@ AI automation agency building white-label voice and workflow automation for US/U
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theabdullahnadeem&theme=dark)](https://git.io/streak-stats)
 
-
 </div>
 
 ---
@@ -242,7 +253,7 @@ AI automation agency building white-label voice and workflow automation for US/U
 
 </div>
 
-> Snake animation requires a GitHub Actions workflow (`platane/snk`) configured on the profile repo to generate `github-contribution-grid-snake-dark.svg`. If not yet set up, this section will render as a broken image until that workflow runs once.
+> Snake animation requires a GitHub Actions workflow (`platane/snk`) configured on the profile repo to generate `github-contribution-grid-snake-dark.svg`. If not yet set up, this section will render a placeholder.
 
 ---
 
